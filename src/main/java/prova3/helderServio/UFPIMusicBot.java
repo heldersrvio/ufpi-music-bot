@@ -471,7 +471,7 @@ public class UFPIMusicBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // Token gerado na criação do bot
-        return "803816900:AAGdAbWMhHuJ31A6VZWTARk_3IwXKJC_67I";
+        return APIKey;
     }
 
     public UFPIMusicBot(){
