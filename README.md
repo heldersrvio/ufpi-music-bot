@@ -1,4 +1,7 @@
-# UFPIMusicBot
-An assignment from my Object Oriented Programming class. Our goal was to develop a Telegram bot that showcased the knowledge we acquired throughout the semester in regards to Object Oriented Programming concepts and handling databases and SQL. 
+# UFPI Music Bot
 
-It was written in Java and I chose Facebook's wit.ai to help me with Natural Language Processing. 
+An assignment from my Object Oriented Programming class. Our goal was to develop a Telegram bot that showcased the knowledge we acquired throughout the semester in regards to Object Oriented Programming concepts as well as dealing with databases and SQL. 
+
+It was written in Java and I chose Facebook's [wit.ai](https://wit.ai) for Natural Language Processing.
+
+Maven is required to install the dependencies.
